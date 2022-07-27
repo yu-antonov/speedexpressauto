@@ -1,0 +1,16 @@
+<svg width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+
+ <g>
+  <title>Layer 1</title>
+  <rect stroke-width="15" stroke="#000" rx="15" id="svg_1" height="240" width="311" y="14.83334" x="133" fill="#fff"/>
+  <ellipse stroke-width="15" ry="34" rx="34" id="svg_2" cy="253.83334" cx="211.66667" stroke="#000" fill="#fff"/>
+  <path id="svg_4" d="m445,87.83334c0,-8.15068 6.84932,-15 15,-15l72.66667,0c40.15068,18 55,60.84932 55,69l1.33333,98c0,8.15068 -6.84932,15 -15,15l-114,0c-8.15068,0 -17.66667,2.48402 -15,-15l0,-152z" opacity="undefined" stroke-width="15" stroke="#000" fill="#fff"/>
+  <path id="svg_3" d="m515.16667,288.33334c-18.78453,0 -34,-15.21547 -34,-34c0,-18.78453 15.21547,-34 34,-34c18.78453,0 34,15.21547 34,34c0,18.78453 -15.21547,34 -34,34z" opacity="undefined" stroke-width="15" stroke="#000" fill="#fff"/>
+  <path id="svg_8" d="m512.00001,94c45.77778,2.44444 59.55555,56.22222 56.66666,72l-0.66666,0l-56,0c0,-24 0,-48 0,-72z" opacity="undefined" stroke-width="15" stroke="#000" fill="none"/>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Antonio'" font-size="80" id="svg_9" y="111.33335" x="156" stroke-width="0" stroke="#000" fill="#ff0000">SPEED</text>
+  <text font-weight="bold" xml:space="preserve" text-anchor="start" font-family="'Antonio'" font-size="60" id="svg_10" y="173.33334" x="156" stroke-width="0" stroke="#000" fill="#000000">EXPRESS</text>
+  <path id="svg_12" d="m44,116l75,0" opacity="undefined" stroke-width="15" stroke="#000" fill="none"/>
+  <line stroke-width="15" id="svg_13" y2="157.33334" x2="119" y1="157.33334" x1="5.66667" stroke="#000" fill="none"/>
+  <path id="svg_11" d="m74.66667,73.33334l44.66667,0" opacity="undefined" stroke-width="15" stroke="#ff0000" fill="none"/>
+ </g>
+</svg>
